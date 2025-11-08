@@ -1,6 +1,6 @@
 # OWASP Top 10 – Advanced Interactive Trainer (Flask)
 
-An advanced, interactive **OWASP Top 10 learning simulator** built entirely with **Flask** and **vanilla HTML/JS**, designed to make each security concept intuitive and easy to understand through **real-world scenarios**, **hands-on simulations**, and **quizzes**.
+An interactive **OWASP Top 10 learning simulator** built entirely with **Flask** and **vanilla HTML/JS**, designed to make each security concept intuitive and easy to understand through **real-world scenarios**, **hands-on simulations**, and **quizzes**.
 <img width="1633" height="762" alt="image" src="https://github.com/user-attachments/assets/60fec013-8c91-4e72-a842-f5f3407cb6c7" />
 
 ---
