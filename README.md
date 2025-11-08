@@ -76,7 +76,7 @@ By completing all 10 modules, learners will be able to:
 ---
 
 ## 🧑‍💻 Developer Info
-**Author:** Abdallah Alkhatib  
+**Author:** CyberWolf 
 **Role:** Cybersecurity Researcher 
 
 ---
