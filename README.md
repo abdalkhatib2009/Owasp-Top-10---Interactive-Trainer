@@ -77,8 +77,7 @@ By completing all 10 modules, learners will be able to:
 
 ## 🧑‍💻 Developer Info
 **Author:** Abdallah Alkhatib  
-**Role:** Cybersecurity Instructor & Developer  
-**Institution:** Higher Colleges of Technology – Abu Dhabi Campus
+**Role:** Cybersecurity Researcher 
 
 ---
 
