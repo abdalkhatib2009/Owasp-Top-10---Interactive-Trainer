@@ -91,6 +91,3 @@ This project is provided under the **MIT License**. You may freely reuse, modify
 - Leaderboard & analytics dashboard
 - Integration with real security labs (e.g., DVWA, Juice Shop, HackTheBox EDU)
 
----
-
-**Interactive, visual, and educational — making OWASP learning fun and effective!**
